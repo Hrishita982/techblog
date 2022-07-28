@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 10.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:India Time
+BEGIN:STANDARD
+DTSTART:20200101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:Standard Time
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Rishita Jain";ROLE=REQ-PARTICIPANT;RSVP=TRUE:MAILTO:en19cs301295@medicaps.ac.in
+ORGANIZER;CN="Soniya Mittal":MAILTO:inhrinterviewpan01@tcs.com
+DTSTART;TZID="India Time":20220621T093000
+DTEND;TZID="India Time":20220621T123000
+LOCATION:https://tcs2.webex.com/tcs2/onstage/g.php?MTID=e760e5e90c1ccf122f5bf3a3a0d8c3d05 
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:WEBEX-MEETING CENTER-6.0965087-1585297062
+DTSTAMP:20220617T060057Z
+DESCRIPTION:Hello Rishita Jain,\n\nYour registration was approved for the following Webex event.\n\nTopic: TCS Orientation - Medicaps Indore\nHost: Soniya Mittal\nTuesday, June 21, 2022 9:30 am, India Time (Mumbai, GMT+05:30)\n\nEvent number: 2517 748 4739\nRegistration ID: This event does not require a registration ID\n\nEvent password: Tcs@123\n\n-------------------------------------------------------\nTo join the online event\n-------------------------------------------------------\nGo to https://tcs2.webex.com/tcs2/onstage/g.php?MTID=e1413dca6367c24db82345826a1bbba61\n\nTo view in other time zones or languages, please click the link:\n\nhttps://tcs2.webex.com/tcs2/onstage/g.php?MTID=efdf003d86f7dc7ae6742dbb87767ce09\n\n-------------------------------------------------------\nJoin the audio conference only\n-------------------------------------------------------\nSingapore Toll: +65-6703-6949\nGlobal call-in numbers: https://tcs2.webex.com/tcs2/globalcallin.php?MTID=e9f490a5f10916f93043eb752ae340503\nAccess code: 2517 748 4739\n\n-------------------------------------------------------\nFor assistance\n-------------------------------------------------------\nYou can contact Soniya Mittal at:\ninhrinterviewpan01@tcs.com\n\nCan't join the event?\nhttps://collaborationhelp.cisco.com/article/kwmj5eb\n\nTo join the event more quickly, you can set up Webex Events before the event starts. Go to: https://tcs2.webex.com/tcs2/ecsetup.php?frommail=1\n\nThe playback of UCF (Universal Communications Format) rich media files requires appropriate players. To view this type of rich media files in the meeting, please check whether you have the players installed on your computer by going to https://tcs2.webex.com/tcs2/onstage/systemdiagnosis.php\n\n\nhttps://www.webex.com\n\nIMPORTANT NOTICE: This Webex service includes a feature that allows audio and any documents and other materials exchanged or viewed during the session to be recorded. By joining this session, you automatically consent to such recordings. If you do not consent to the recording, discuss your concerns with the meeting host prior to the start of the recording or do not join the session. Please note that any such recordings may be subject to discovery in the event of litigation. \n
+SUMMARY:TCS Orientation - Medicaps Indore
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

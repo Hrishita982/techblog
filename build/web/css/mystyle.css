@@ -1,0 +1,11 @@
+.primary-background{
+    background: #673ab7 ;
+}
+.secondary-background{
+    background: #5e35b1 ;
+}
+.jumbotron
+{
+clip-path: polygon(50% 0%, 100% 0, 100% 91%, 85% 78%, 71% 91%, 0 91%, 0 0);
+}
+
